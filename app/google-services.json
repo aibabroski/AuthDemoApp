@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28169871027",
+    "project_id": "authapp-5e46c",
+    "storage_bucket": "authapp-5e46c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28169871027:android:a5c9631f35e0af197b5ac6",
+        "android_client_info": {
+          "package_name": "com.aibatech.loginandregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJDmSHI2vBAdyqKE2pKf8vPeCMUYwTOW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
